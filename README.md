@@ -1,7 +1,7 @@
 domain-stuff
 ============
 
-Domain Related Scripts
+*Domain Related Scripts
 
 1) Domainscan.sh
 
